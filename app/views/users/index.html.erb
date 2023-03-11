@@ -1,0 +1,8 @@
+<section class="splash container">
+  <h1>BudgetWise 💰</h1>
+  <%= render partial: "devise/shared/notification"%>
+  <div class="regBtns">
+    <%= link_to "LOG IN", new_user_session_path, data: {turbo: false}, class: "btn btn-primary mb-1" %>
+    <%= link_to "SIGN UP", new_user_registration_path, data: {turbo: false}, class: "btn" %>
+  </div>
+</section>
