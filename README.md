@@ -86,7 +86,7 @@
 
 - [Live Demo Link to BudgetWise](https://budget-wise-app.onrender.com)
 
-- [Video Demo Link on Loom](https://www.loom.com/share/1cdf9bdc48ba4ec3bf80716555696f6c)
+- [Video Demo Link on Loom](https://www.loom.com/share/226662d82a1c43628f792250a8c57698)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
