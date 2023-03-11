@@ -24,6 +24,8 @@ default: &default
 development:
   <<: *default
   database: budget_wise_app_development
+  username: mindprep
+  password: <%= ENV["MINDPREP_DATABASE_PASSWORD"] %>
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
