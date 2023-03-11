@@ -5,7 +5,7 @@ ruby '3.1.3'
 
 gem 'devise'
 
-gem 'cancancan'
+gem 'cancan'
 
 gem 'rails-controller-testing'
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
