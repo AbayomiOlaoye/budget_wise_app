@@ -1,5 +1,13 @@
 require 'rails_helper'
 
 RSpec.describe User, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  subject { User.new(name: 'Ola Mag', email: 'olamag@mail.com', password: '1234567') }
+
+  before { subject.save }
+
+  it 'should validate user' do
+    expect(subject).to be_valid
+    subject.name = ''
+    expect(subject).to_not be_valid
+  end
 end
