@@ -84,9 +84,9 @@
 
 ## 🚀 Live and Video Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link to BudgetWise](https://budget-wise-app.onrender.com)
 
-- [Video Demo Link]()
+- [Video Demo Link on Loom](https://www.loom.com/share/226662d82a1c43628f792250a8c57698)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
