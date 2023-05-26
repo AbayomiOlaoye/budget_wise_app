@@ -32,9 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 BUDGET APP <a name="about-project"></a>
+# 📖 BUDGETWISE APP <a name="about-project"></a>
 
-**Budget App** is a mobile web application that allows you to manage your funds. It features the history of your transactions associated with specific category, so that you can see evaluate your spends, which will in turn enable you to make informed decisions about spending and saving.
+**BudgetWise App** is a mobile web application that allows you to manage your funds. It features the history of your transactions associated with specific category, so that you can see evaluate your spends, which will in turn enable you to make informed decisions about spending and saving.
 
 ## 🛠 Built With <a name="built-with"></a>
 
