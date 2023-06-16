@@ -50,7 +50,8 @@
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="http://localhost:3000/">localhost</a></li>
+    <li><a href="http://localhost:30![budget](https://github.com/AbayomiOlaoye/budget_wise_app/assets/99715640/4190f022-f331-4445-b019-5fbe63d2d051)
+00/">localhost</a></li>
   </ul>
 </details>
 
@@ -77,6 +78,8 @@
 |:--------------:|:-----------------:|:--------------:|:-----------------:|-----------------:|
 |![image](https://user-images.githubusercontent.com/99715640/224487553-0647cd0c-8bdb-4f8d-b875-985574f06b1f.png)|![image](https://user-images.githubusercontent.com/99715640/224487599-7d595866-98e1-4343-ac18-3cbe53cf9e3e.png)|![image](https://user-images.githubusercontent.com/99715640/224487652-1c5910df-b3b9-411f-9b06-22151bd6617c.png)|![image](https://user-images.githubusercontent.com/99715640/224487799-f07b56f2-1265-446e-b8d1-7aabd7c32593.png)|![image](https://user-images.githubusercontent.com/99715640/224487860-d9638dcf-1e1c-446e-9425-230ffc685fbc.png)|
 
+### Custom Media Design
+![budget](https://github.com/AbayomiOlaoye/budget_wise_app/assets/99715640/589d9251-7b94-4ba0-86ca-dedd9ac0fc76)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
